@@ -92,6 +92,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
   },
   {
     title: "连山",
+    sites: [
       {
         title: "百度",
         description: "帮你百度",
@@ -158,9 +159,11 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://my.chenyu.me/daima/ydy/",
         icon: "",
       },
+    ],
   },
   {
     title: "归藏",
+    sites: [
       {
         title: "俄罗斯方块",
         description: "小游戏",
@@ -227,6 +230,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://my.chenyu.me/game/saolei/",
         icon: "",
       },
+    ],
   },
   {
     title: "友情链接",
