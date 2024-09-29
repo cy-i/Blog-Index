@@ -242,6 +242,12 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://my.chenyu.me/game/saolei/",
         icon: "",
       },
+      {
+        title: "尘遇修仙传",
+        description: "你的修仙之旅开始了",
+        url: "https://my.chenyu.me/game/xiuxian/",
+        icon: "",
+      },
     ],
   },
   {
