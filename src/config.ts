@@ -159,6 +159,18 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://my.chenyu.me/daima/ydy/",
         icon: "",
       },
+      {
+        title: "尘遇发布页",
+        description: "尘遇网址发布页",
+        url: "https://my.chenyu.me/daima/wzfb/",
+        icon: "",
+      },
+      {
+        title: "尘遇静态页",
+        description: "HTML静态网站",
+        url: "https://my.chenyu.me/daima/hichen/",
+        icon: "",
+      },
     ],
   },
   {
