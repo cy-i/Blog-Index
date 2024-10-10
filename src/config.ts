@@ -23,6 +23,12 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         icon: "",
       },
       {
+        title: "谜语人",
+        description: "来当个谜语人吧",
+        url: "https://my.chenyu.me/miyuren/",
+        icon: "",
+      },
+      {
         title: "打分",
         description: "工作打分",
         url: "https://my.chenyu.me/gzdf/",
