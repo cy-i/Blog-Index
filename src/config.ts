@@ -94,6 +94,12 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://my.chenyu.me/daima/htmlencrypt/",
         icon: "",
       },
+      {
+        title: "Hidden Word",
+        description: "将秘密隐藏在文本中",
+        url: "https://my.chenyu.me/hidden-word/",
+        icon: "",
+      },
     ],
   },
   {
